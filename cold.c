@@ -4,6 +4,7 @@ int main(int argc, char const* argv[])
 	printf("this is a game when computer wins every time . try it i swear you can't beat my program\n");
 	printf("choose the number of sticks here\n");
 	int j, a, k = 0;
+	//hello here
 
 start:
 	printf("please type the value between 1 and 4\n");
