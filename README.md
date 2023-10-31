@@ -1,2 +1,2 @@
 # matchstick-game
-its my first gamaee in c languahe
+its my first game in c language
